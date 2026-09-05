@@ -1,5 +1,7 @@
 # MediKiosk: AI Clinical Intake & Multi-Pathy Solutions Platform
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/adityabarewar865-sudo/MediKiOsk)
+
 An AI-powered clinical intake and cross-pathy healthcare web platform built for high-density hospital outpatient departments (OPDs) and AYUSH clinics. It simplifies clinical history taking and provides clear, comparative remedies across **Allopathy**, **Ayurveda**, and **Homeopathy** without cognitive clutter.
 
 ---
